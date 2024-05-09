@@ -9,7 +9,7 @@ In addition, one of the most successful social network/streaming platforms, TikT
 This project aims to build a movie recommendation system based on collaborative filtering mechanism. 
 
 ## Business Problem
-SAW is a movie streaming service startup that needs a recommendation system for its users.
+SAW is a movie streaming service startup that needs a recommendation system for its users. The company requested the team to build out its first recommendation system. 
 
 ## Data Understanding and Preparation
 For this project, following dataset was utilized for the analysis:
