@@ -58,7 +58,7 @@ Consider following aspects for the next version of the recommendation system:
 - Diversity (e.g., ethnicity, sexual orientation)
 
 ## For More Information
-Please review our full analysis in jupyter notebook ([Seasonal Flu Vaccination Prediction Analysis](https://github.com/sangwon224/Movie_Recommendation_System_Project/blob/main/Movie_Recommendation_System_Project.ipynb))\
+Please review our full analysis in jupyter notebook ([Movie Recommendation System Project](https://github.com/sangwon224/Movie_Recommendation_System_Project/blob/main/Movie_Recommendation_System_Project.ipynb))\
 And also refer to our ([Presentation](https://github.com/sangwon224/Movie_Recommendation_System_Project/blob/main/presentation.pdf)) 
 
 ## Contributors
